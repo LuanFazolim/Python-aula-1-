@@ -1,0 +1,10 @@
+n1=int(input('n1:'))
+n2=int(input('n2:'))
+r=n1/n2
+print('sem o codigo fica {}'.format(r))
+print('{}/{}= {}'.format(n1,n2,r))
+print('')
+print('com o codigo fica {:.3}'.format(r))
+print('{}/{}= {:.3}'.format(n1,n2,r))
+print('')
+print('para diminuirmos as casas decimais e so botar na chave (:.numero)')

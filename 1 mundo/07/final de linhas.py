@@ -1,0 +1,7 @@
+print('paragrafos ex:\n ola\n tudo bem\n isso e tipo um poema\n tendeu?')
+print('')
+print("para pularmos de uma linha pra outra, colocamos o (\+n)")
+print('')
+print('')
+print('final de linha ex:\n ele junta os comandos.' ,end=' ')
+print("Basta colocar (,end='') no final")

@@ -1,0 +1,5 @@
+nome=input('digite algo?:')
+print('exemplo 1: ola, {:>20}'.format(nome))
+print('exemplo 2: ola, {:^20}'.format(nome))
+print('exemplo 3: ola, {:<20} pablo'.format(nome))
+print('exemplo 4: ola, {:=^20}'.format(nome))
